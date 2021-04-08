@@ -1,7 +1,13 @@
 .container{
     width: 80%;
 }
-
+.container2{
+    width: 200%;
+}
+img{
+    width: 340px;
+    height: 340px;
+}
 #carouselExampleIndicators{
     height: 40%;
 }
